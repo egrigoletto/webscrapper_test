@@ -1,4 +1,4 @@
-# WEbscrapper Test
+# Webscrapper Test
 
 Trata-se de um teste de acesso a um website para teste de webscrappers(https://webscraper.io/) e a partir dele ele pega alguns dados de produtos e cria uma tabela
 
