@@ -1,6 +1,6 @@
 # Webscrapper Test
 
-Trata-se de um teste de acesso a um website para teste de webscrappers(https://webscraper.io/) e a partir dele ele pega alguns dados de produtos e cria uma tabela
+Trata-se de um teste de acesso a um website para teste de webscrappers(https://webscraper.io/) e a partir dele ele pega alguns dados de produtos e cria uma tabela. Esses dados são coletados com a ferramenta cheerio(https://github.com/cheeriojs/cheerio) que simula acessos via DOM com auxílio do JQuery.
 
 ## Como usar
 
